@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14a779c5-520b-48d5-b515-db78a9e0cf0f" name="Changes" comment="">
+    <list default="true" id="14a779c5-520b-48d5-b515-db78a9e0cf0f" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/MiCard/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MiCard/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/MiCard/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bmi_calculator/README.md" beforeDir="false" />
@@ -37,6 +37,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Cry2k5"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Cry2k5/MyLabsFlutter.git",
@@ -62,7 +68,7 @@
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/cry/DaNenTang/9lab",
+    "last_opened_file_path": "/home/cry/DaNenTang/9lab/bmi_calculator",
     "settings.editor.selected.configurable": "dart.settings",
     "show.migrate.to.gradle.popup": "false"
   }
